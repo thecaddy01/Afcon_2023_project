@@ -1,0 +1,73 @@
+group_name,home_team,away_team,home_goals_ht,away_goals_ht,home_goals_2nd_half,away_goals_2nd_half,home_goals_ft,away_goals_ft
+"Africa Cup of Nations, Group A",Guinea-Bissau,Nigeria,1,2,0,0,0,2
+"Africa Cup of Nations, Group A",Equatorial Guinea,Guinea-Bissau,1,2,4,1,4,2
+"Africa Cup of Nations, Group A",Côte d'Ivoire,Guinea-Bissau,1,0,1,0,2,1
+"Africa Cup of Nations, Group A",Guinea-Bissau,Nigeria,1,2,0,1,1,1
+"Africa Cup of Nations, Group A",Côte d'Ivoire,Nigeria,0,0,1,2,0,2
+"Africa Cup of Nations, Group A",Nigeria,Equatorial Guinea,1,1,0,1,1,1
+"Africa Cup of Nations, Group A",Equatorial Guinea,Côte d'Ivoire,1,1,4,0,4,1
+"Africa Cup of Nations, Group A",Equatorial Guinea,Guinea-Bissau,2,1,4,2,5,3
+"Africa Cup of Nations, Group A",Nigeria,Equatorial Guinea,1,2,0,0,2,2
+"Africa Cup of Nations, Group A",Equatorial Guinea,Côte d'Ivoire,2,0,4,0,5,1
+"Africa Cup of Nations, Group A",Côte d'Ivoire,Nigeria,0,1,0,2,0,1
+"Africa Cup of Nations, Group A",Côte d'Ivoire,Guinea-Bissau,2,1,1,1,3,0
+"Africa Cup of Nations, Group B",Cape Verde,Egypt,1,0,2,3,3,3
+"Africa Cup of Nations, Group B",Cape Verde,Mozambique,1,0,2,0,4,0
+"Africa Cup of Nations, Group B",Ghana,Cape Verde,0,1,2,1,2,3
+"Africa Cup of Nations, Group B",Cape Verde,Egypt,1,0,1,3,2,2
+"Africa Cup of Nations, Group B",Egypt,Ghana,1,1,2,2,3,2
+"Africa Cup of Nations, Group B",Egypt,Mozambique,1,0,2,2,3,2
+"Africa Cup of Nations, Group B",Mozambique,Ghana,0,2,3,1,3,2
+"Africa Cup of Nations, Group B",Cape Verde,Mozambique,1,1,2,1,3,1
+"Africa Cup of Nations, Group B",Egypt,Mozambique,2,0,1,2,3,2
+"Africa Cup of Nations, Group B",Mozambique,Ghana,0,1,2,1,2,3
+"Africa Cup of Nations, Group B",Egypt,Ghana,1,1,2,1,2,3
+"Africa Cup of Nations, Group B",Ghana,Cape Verde,1,1,1,2,2,3
+"Africa Cup of Nations, Group C",Guinea,Senegal,0,1,1,2,0,3
+"Africa Cup of Nations, Group C",Guinea,Gambia,0,0,2,0,2,0
+"Africa Cup of Nations, Group C",Cameroon,Guinea,1,2,2,0,2,1
+"Africa Cup of Nations, Group C",Guinea,Senegal,0,0,0,2,1,2
+"Africa Cup of Nations, Group C",Senegal,Cameroon,2,1,3,1,3,2
+"Africa Cup of Nations, Group C",Senegal,Gambia,1,0,3,1,4,0
+"Africa Cup of Nations, Group C",Gambia,Cameroon,0,1,2,4,2,4
+"Africa Cup of Nations, Group C",Guinea,Gambia,0,1,2,0,2,0
+"Africa Cup of Nations, Group C",Senegal,Gambia,2,1,2,1,4,1
+"Africa Cup of Nations, Group C",Gambia,Cameroon,1,1,2,4,3,3
+"Africa Cup of Nations, Group C",Senegal,Cameroon,1,1,2,1,3,2
+"Africa Cup of Nations, Group C",Cameroon,Guinea,1,2,2,0,2,2
+"Africa Cup of Nations, Group D",Mauritania,Algeria,1,0,1,1,2,0
+"Africa Cup of Nations, Group D",Mauritania,Angola,1,1,1,3,3,4
+"Africa Cup of Nations, Group D",Burkina Faso,Mauritania,1,1,1,1,2,1
+"Africa Cup of Nations, Group D",Mauritania,Algeria,1,0,1,1,1,1
+"Africa Cup of Nations, Group D",Algeria,Burkina Faso,0,2,2,2,3,2
+"Africa Cup of Nations, Group D",Algeria,Angola,2,1,1,2,2,1
+"Africa Cup of Nations, Group D",Angola,Burkina Faso,2,0,1,0,3,0
+"Africa Cup of Nations, Group D",Mauritania,Angola,2,2,1,2,3,4
+"Africa Cup of Nations, Group D",Algeria,Angola,1,1,1,1,2,1
+"Africa Cup of Nations, Group D",Angola,Burkina Faso,1,0,1,1,3,0
+"Africa Cup of Nations, Group D",Algeria,Burkina Faso,0,2,3,2,2,2
+"Africa Cup of Nations, Group D",Burkina Faso,Mauritania,0,0,1,1,2,1
+"Africa Cup of Nations, Group F",Zambia,Morocco,1,2,0,1,0,1
+"Africa Cup of Nations, Group F",Zambia,Tanzania,1,2,1,1,2,2
+"Africa Cup of Nations, Group F",DR Congo,Zambia,2,1,0,0,2,2
+"Africa Cup of Nations, Group F",Zambia,Morocco,1,2,0,1,0,2
+"Africa Cup of Nations, Group F",Morocco,DR Congo,2,0,1,1,1,2
+"Africa Cup of Nations, Group F",Morocco,Tanzania,2,1,2,1,4,0
+"Africa Cup of Nations, Group F",Tanzania,DR Congo,0,1,1,0,1,0
+"Africa Cup of Nations, Group F",Zambia,Tanzania,1,1,2,0,1,1
+"Africa Cup of Nations, Group F",Morocco,Tanzania,1,0,2,1,4,0
+"Africa Cup of Nations, Group F",Tanzania,DR Congo,0,0,1,1,1,1
+"Africa Cup of Nations, Group F",Morocco,DR Congo,2,0,1,1,2,1
+"Africa Cup of Nations, Group F",DR Congo,Zambia,2,2,0,1,1,1
+"Africa Cup of Nations, Group E",Namibia,Mali,1,0,0,0,0,0
+"Africa Cup of Nations, Group E",South Africa,Namibia,3,0,1,1,5,1
+"Africa Cup of Nations, Group E",Tunisia,Namibia,1,1,1,2,1,2
+"Africa Cup of Nations, Group E",Namibia,Mali,0,1,0,0,0,0
+"Africa Cup of Nations, Group E",Tunisia,Mali,2,1,1,1,1,2
+"Africa Cup of Nations, Group E",Mali,South Africa,1,1,3,1,2,0
+"Africa Cup of Nations, Group E",South Africa,Tunisia,0,1,1,1,1,0
+"Africa Cup of Nations, Group E",South Africa,Namibia,3,1,2,0,4,1
+"Africa Cup of Nations, Group E",Mali,South Africa,1,1,3,0,3,0
+"Africa Cup of Nations, Group E",South Africa,Tunisia,0,1,0,1,0,1
+"Africa Cup of Nations, Group E",Tunisia,Mali,1,2,0,1,2,2
+"Africa Cup of Nations, Group E",Tunisia,Namibia,1,1,0,2,0,1

@@ -1,0 +1,73 @@
+group_name,game_id,Date,home_team,away_team,home_goals_ht,away_goals_ht,home_goals_2nd_half,away_goals_2nd_half,home_goals_ft,away_goals_ft
+"Africa Cup of Nations, Group A",11761896,1705946400,Guinea-Bissau,Nigeria,0,2,0,0,0,1
+"Africa Cup of Nations, Group A",11761883,1705579200,Equatorial Guinea,Guinea-Bissau,1,2,3,2,5,3
+"Africa Cup of Nations, Group A",11761871,1705179600,Côte d'Ivoire,Guinea-Bissau,2,1,2,0,3,0
+"Africa Cup of Nations, Group A",11761896,1705948200,Guinea-Bissau,Nigeria,0,2,1,0,1,1
+"Africa Cup of Nations, Group A",11761884,1705604400,Côte d'Ivoire,Nigeria,0,0,0,1,0,1
+"Africa Cup of Nations, Group A",11761872,1705235400,Nigeria,Equatorial Guinea,1,2,0,0,1,2
+"Africa Cup of Nations, Group A",11761895,1705949100,Equatorial Guinea,Côte d'Ivoire,2,0,3,1,4,0
+"Africa Cup of Nations, Group A",11761883,1705592700,Equatorial Guinea,Guinea-Bissau,2,2,4,2,5,3
+"Africa Cup of Nations, Group A",11761872,1705249800,Nigeria,Equatorial Guinea,2,1,1,0,1,2
+"Africa Cup of Nations, Group A",11761895,1705943700,Equatorial Guinea,Côte d'Ivoire,1,0,4,0,4,0
+"Africa Cup of Nations, Group A",11761884,1705593600,Côte d'Ivoire,Nigeria,1,1,0,2,0,1
+"Africa Cup of Nations, Group A",11761871,1705170600,Côte d'Ivoire,Guinea-Bissau,1,1,2,1,3,0
+"Africa Cup of Nations, Group B",11761898,1705953600,Cape Verde,Egypt,2,0,1,2,3,3
+"Africa Cup of Nations, Group B",11761888,1705664700,Cape Verde,Mozambique,1,1,3,0,3,0
+"Africa Cup of Nations, Group B",11761874,1705257900,Ghana,Cape Verde,0,1,1,2,2,3
+"Africa Cup of Nations, Group B",11761898,1705944600,Cape Verde,Egypt,1,1,1,2,2,3
+"Africa Cup of Nations, Group B",11761886,1705617000,Egypt,Ghana,1,1,3,2,2,3
+"Africa Cup of Nations, Group B",11761873,1705257000,Egypt,Mozambique,2,1,2,2,3,2
+"Africa Cup of Nations, Group B",11761897,1705948200,Mozambique,Ghana,1,1,2,1,3,2
+"Africa Cup of Nations, Group B",11761888,1705664700,Cape Verde,Mozambique,2,1,3,0,3,1
+"Africa Cup of Nations, Group B",11761873,1705255200,Egypt,Mozambique,1,0,2,3,2,3
+"Africa Cup of Nations, Group B",11761897,1705959000,Mozambique,Ghana,1,1,2,2,3,3
+"Africa Cup of Nations, Group B",11761886,1705615200,Egypt,Ghana,1,2,3,2,2,3
+"Africa Cup of Nations, Group B",11761874,1705253400,Ghana,Cape Verde,0,2,2,2,2,2
+"Africa Cup of Nations, Group C",11761899,1706024700,Guinea,Senegal,1,1,0,3,1,3
+"Africa Cup of Nations, Group C",11761887,1705693500,Guinea,Gambia,1,0,1,1,1,1
+"Africa Cup of Nations, Group C",11761876,1705343400,Cameroon,Guinea,0,1,1,0,1,2
+"Africa Cup of Nations, Group C",11761899,1706028300,Guinea,Senegal,0,0,0,3,0,2
+"Africa Cup of Nations, Group C",11761885,1705678200,Senegal,Cameroon,2,0,2,2,3,2
+"Africa Cup of Nations, Group C",11761875,1705330800,Senegal,Gambia,2,1,3,1,4,0
+"Africa Cup of Nations, Group C",11761900,1706036400,Gambia,Cameroon,1,1,3,4,3,4
+"Africa Cup of Nations, Group C",11761887,1705691700,Guinea,Gambia,0,1,1,1,1,0
+"Africa Cup of Nations, Group C",11761875,1705336200,Senegal,Gambia,1,1,2,1,3,0
+"Africa Cup of Nations, Group C",11761900,1706033700,Gambia,Cameroon,1,1,2,3,3,4
+"Africa Cup of Nations, Group C",11761885,1705689000,Senegal,Cameroon,1,0,3,2,4,2
+"Africa Cup of Nations, Group C",11761876,1705342500,Cameroon,Guinea,1,1,2,1,2,2
+"Africa Cup of Nations, Group D",11761901,1706043600,Mauritania,Algeria,2,1,1,1,1,0
+"Africa Cup of Nations, Group D",11761890,1705761000,Mauritania,Angola,1,1,1,2,2,4
+"Africa Cup of Nations, Group D",11761878,1705405500,Burkina Faso,Mauritania,1,0,2,0,1,0
+"Africa Cup of Nations, Group D",11761901,1706037300,Mauritania,Algeria,2,1,1,1,2,1
+"Africa Cup of Nations, Group D",11761889,1705764600,Algeria,Burkina Faso,1,1,2,2,2,2
+"Africa Cup of Nations, Group D",11761877,1705353300,Algeria,Angola,2,0,1,2,2,1
+"Africa Cup of Nations, Group D",11761902,1706040900,Angola,Burkina Faso,2,0,2,1,2,0
+"Africa Cup of Nations, Group D",11761890,1705764600,Mauritania,Angola,1,1,1,2,3,3
+"Africa Cup of Nations, Group D",11761877,1705351500,Algeria,Angola,1,0,0,1,1,1
+"Africa Cup of Nations, Group D",11761902,1706040000,Angola,Burkina Faso,1,0,1,1,2,0
+"Africa Cup of Nations, Group D",11761889,1705761000,Algeria,Burkina Faso,1,2,2,1,2,2
+"Africa Cup of Nations, Group D",11761878,1705417200,Burkina Faso,Mauritania,0,1,1,0,2,0
+"Africa Cup of Nations, Group F",11761906,1706128200,Zambia,Morocco,0,1,1,1,1,1
+"Africa Cup of Nations, Group F",11761893,1705865400,Zambia,Tanzania,1,2,2,0,2,2
+"Africa Cup of Nations, Group F",11761882,1705522500,DR Congo,Zambia,1,1,1,0,2,1
+"Africa Cup of Nations, Group F",11761906,1706125500,Zambia,Morocco,0,2,1,0,1,2
+"Africa Cup of Nations, Group F",11761892,1705845600,Morocco,DR Congo,1,0,0,2,1,1
+"Africa Cup of Nations, Group F",11761881,1705515300,Morocco,Tanzania,1,1,2,0,4,1
+"Africa Cup of Nations, Group F",11761905,1706130900,Tanzania,DR Congo,1,0,0,1,0,0
+"Africa Cup of Nations, Group F",11761893,1705862700,Zambia,Tanzania,0,1,2,1,2,1
+"Africa Cup of Nations, Group F",11761881,1705502700,Morocco,Tanzania,1,0,3,0,4,0
+"Africa Cup of Nations, Group F",11761905,1706125500,Tanzania,DR Congo,0,1,0,0,1,1
+"Africa Cup of Nations, Group F",11761892,1705853700,Morocco,DR Congo,2,0,0,2,1,2
+"Africa Cup of Nations, Group F",11761882,1705516200,DR Congo,Zambia,2,2,0,0,1,2
+"Africa Cup of Nations, Group E",11761904,1706120100,Namibia,Mali,1,1,0,0,1,1
+"Africa Cup of Nations, Group E",11761894,1705875300,South Africa,Namibia,3,1,1,1,4,0
+"Africa Cup of Nations, Group E",11761879,1705432500,Tunisia,Namibia,1,1,0,2,0,1
+"Africa Cup of Nations, Group E",11761904,1706109300,Namibia,Mali,1,1,1,1,0,0
+"Africa Cup of Nations, Group E",11761891,1705779900,Tunisia,Mali,2,1,1,0,1,1
+"Africa Cup of Nations, Group E",11761880,1705439700,Mali,South Africa,0,0,2,1,3,1
+"Africa Cup of Nations, Group E",11761903,1706107500,South Africa,Tunisia,0,1,0,0,1,1
+"Africa Cup of Nations, Group E",11761894,1705860000,South Africa,Namibia,4,0,2,1,5,1
+"Africa Cup of Nations, Group E",11761880,1705441500,Mali,South Africa,1,0,3,1,2,0
+"Africa Cup of Nations, Group E",11761903,1706124600,South Africa,Tunisia,1,1,1,1,0,0
+"Africa Cup of Nations, Group E",11761891,1705785300,Tunisia,Mali,2,2,1,1,1,2
+"Africa Cup of Nations, Group E",11761879,1705415400,Tunisia,Namibia,1,0,1,1,1,1
