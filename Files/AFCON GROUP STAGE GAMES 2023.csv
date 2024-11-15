@@ -1,0 +1,37 @@
+group_name,game_id,Date,home_team,away_team,home_goals_ht,away_goals_ht,total_1st_half_goals,half_time_result,home_goals_2nd_half,away_goals_2nd_half,total_2nd_half_goals,second_half_result,home_goals_ft,away_goals_ft,total_goals,full_time_result
+"Africa Cup of Nations, Group A",11761871,13/01/2024,Cote d'Ivoire,Guinea-Bissau,1,0,1,Cote d'Ivoire,1,0,1,Cote d'Ivoire,2,0,2,Cote d'Ivoire
+"Africa Cup of Nations, Group A",11761872,14/01/2024,Nigeria,Equatorial Guinea,1,1,2,Draw,0,0,0,Draw,1,1,2,Draw
+"Africa Cup of Nations, Group B",11761873,14/01/2024,Egypt,Mozambique,1,0,1,Egypt,1,2,3,Mozambique,2,2,4,Draw
+"Africa Cup of Nations, Group B",11761874,14/01/2024,Ghana,Cape Verde,0,1,1,Cape Verde,1,1,2,Draw,1,2,3,Cape Verde
+"Africa Cup of Nations, Group C",11761875,15/01/2024,Senegal,Gambia,1,0,1,Senegal,2,0,2,Senegal,3,0,3,Senegal
+"Africa Cup of Nations, Group C",11761876,15/01/2024,Cameroon,Guinea,0,1,1,Guinea,1,0,1,Cameroon,1,1,2,Draw
+"Africa Cup of Nations, Group D",11761877,15/01/2024,Algeria,Angola,1,0,1,Algeria,0,1,1,Angola,1,1,2,Draw
+"Africa Cup of Nations, Group D",11761878,16/01/2024,Burkina Faso,Mauritania,0,0,0,Draw,1,0,1,Burkina Faso,1,0,1,Burkina Faso
+"Africa Cup of Nations, Group E",11761879,16/01/2024,Tunisia,Namibia,0,0,0,Draw,0,1,1,Namibia,0,1,1,Namibia
+"Africa Cup of Nations, Group E",11761880,16/01/2024,Mali,South Africa,0,0,0,Draw,2,0,2,Mali,2,0,2,Mali
+"Africa Cup of Nations, Group F",11761881,17/01/2024,Morocco,Tanzania,1,0,1,Morocco,2,0,2,Morocco,3,0,3,Morocco
+"Africa Cup of Nations, Group F",11761882,17/01/2024,DR Congo,Zambia,1,1,2,Draw,0,0,0,Draw,1,1,2,Draw
+"Africa Cup of Nations, Group A",11761883,18/01/2024,Equatorial Guinea,Guinea-Bissau,1,1,2,Draw,3,1,4,Equatorial Guinea,4,2,6,Equatorial Guinea
+"Africa Cup of Nations, Group A",11761884,18/01/2024,Cote d'Ivoire,Nigeria,0,0,0,Draw,0,1,1,Nigeria,0,1,1,Nigeria
+"Africa Cup of Nations, Group B",11761886,18/01/2024,Egypt,Ghana,0,1,1,Ghana,2,1,3,Egypt,2,2,4,Draw
+"Africa Cup of Nations, Group B",11761888,19/01/2024,Cape Verde,Mozambique,1,0,1,Cape Verde,2,0,2,Cape Verde,3,0,3,Cape Verde
+"Africa Cup of Nations, Group C",11761885,19/01/2024,Senegal,Cameroon,1,0,1,Senegal,2,1,3,Senegal,3,1,4,Senegal
+"Africa Cup of Nations, Group C",11761887,19/01/2024,Guinea,Gambia,0,0,0,Draw,1,0,1,Guinea,1,0,1,Guinea
+"Africa Cup of Nations, Group D",11761889,20/01/2024,Algeria,Burkina Faso,0,1,1,Burkina Faso,2,1,3,Algeria,2,2,4,Draw
+"Africa Cup of Nations, Group D",11761890,20/01/2024,Mauritania,Angola,1,1,2,Draw,1,2,3,Angola,2,3,5,Angola
+"Africa Cup of Nations, Group E",11761891,20/01/2024,Tunisia,Mali,1,1,2,Draw,0,0,0,Draw,1,1,2,Draw
+"Africa Cup of Nations, Group F",11761892,21/01/2024,Morocco,DR Congo,1,0,1,Morocco,0,1,1,DR Congo,1,1,2,Draw
+"Africa Cup of Nations, Group F",11761893,21/01/2024,Zambia,Tanzania,0,1,1,Tanzania,1,0,1,Zambia,1,1,2,Draw
+"Africa Cup of Nations, Group E",11761894,21/01/2024,South Africa,Namibia,3,0,3,South Africa,1,0,1,South Africa,4,0,4,South Africa
+"Africa Cup of Nations, Group A",11761895,22/01/2024,Equatorial Guinea,Cote d'Ivoire,1,0,1,Equatorial Guinea,3,0,3,Equatorial Guinea,4,0,4,Equatorial Guinea
+"Africa Cup of Nations, Group A",11761896,22/01/2024,Guinea-Bissau,Nigeria,0,1,1,Nigeria,0,0,0,Draw,0,1,1,Nigeria
+"Africa Cup of Nations, Group B",11761897,22/01/2024,Mozambique,Ghana,0,1,1,Ghana,2,1,3,Mozambique,2,2,4,Draw
+"Africa Cup of Nations, Group B",11761898,22/01/2024,Cape Verde,Egypt,1,0,1,Cape Verde,1,2,3,Egypt,2,2,4,Draw
+"Africa Cup of Nations, Group C",11761899,23/01/2024,Guinea,Senegal,0,0,0,Draw,0,2,2,Senegal,0,2,2,Senegal
+"Africa Cup of Nations, Group C",11761900,23/01/2024,Gambia,Cameroon,0,0,0,Draw,2,3,5,Cameroon,2,3,5,Cameroon
+"Africa Cup of Nations, Group D",11761901,23/01/2024,Mauritania,Algeria,1,0,1,Mauritania,0,0,0,Draw,1,0,1,Mauritania
+"Africa Cup of Nations, Group D",11761902,23/01/2024,Angola,Burkina Faso,1,0,1,Angola,1,0,1,Angola,2,0,2,Angola
+"Africa Cup of Nations, Group E",11761904,24/01/2024,Namibia,Mali,0,0,0,Draw,0,0,0,Draw,0,0,0,Draw
+"Africa Cup of Nations, Group E",11761903,24/01/2024,South Africa,Tunisia,0,0,0,Draw,0,0,0,Draw,0,0,0,Draw
+"Africa Cup of Nations, Group F",11761906,24/01/2024,Zambia,Morocco,0,1,1,Morocco,0,0,0,Draw,0,1,1,Morocco
+"Africa Cup of Nations, Group F",11761905,24/01/2024,Tanzania,DR Congo,0,0,0,Draw,0,0,0,Draw,0,0,0,Draw
